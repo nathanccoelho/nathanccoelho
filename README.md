@@ -1,4 +1,6 @@
-Olá! Eu sou o Nathan Coelho, tenho 24 anos e sou natural de Itaquaquecetuba-SP. Atualmente estou migrando de carreira e ingressei na tecnologia em agosto de 2023 pela Generation Brasil. Hoje estou como Desenvolvedor Full Stack e segue abaixo meus contatos e as tecnologias que uso no meu dia a dia.
+## Olá! Eu sou o Nathan Coelho!
+
+Tenho 24 anos e sou natural de Itaquaquecetuba-SP. Atualmente estou migrando de carreira e ingressei na tecnologia em agosto de 2023 pela Generation Brasil. Hoje estou como Desenvolvedor Full Stack e segue abaixo meus contatos e as tecnologias que uso no meu dia a dia.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
