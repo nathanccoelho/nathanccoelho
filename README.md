@@ -1,4 +1,5 @@
-## Olá! Eu sou o Nathan Coelho!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=435&lines=Hello%2C+human!)](https://git.io/typing-svg)
+## Eu sou o Nathan Coelho!
 
 Tenho 24 anos e sou natural de Itaquaquecetuba-SP. Atualmente estou migrando de carreira e ingressei na tecnologia em agosto de 2023 pela Generation Brasil. Hoje estou como Desenvolvedor Full Stack e segue abaixo meus contatos e as tecnologias que uso no meu dia a dia.
 
