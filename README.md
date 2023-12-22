@@ -31,7 +31,8 @@
 
 ## Atualmente estudando:
 
-- ☕ Java e Spring Boot (Back-end)
+- ☕ Java com Spring Boot (Back-end)
+- 🧠 Kotlin com Spring Boot (Back-end)
 - 💻 TypeScript - React (Front-end)
   
 ## Projetos em destaque⚡:
